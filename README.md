@@ -11,7 +11,8 @@ This Python program simulates a simple ATM workflow. Users can insert a credit c
 ## Getting Started
 
 1. Clone or download this repository to your local machine.
-
+     git clone https://github.com/limyi/ATM
+   
 2. Open a terminal or command prompt.
 
 3. Navigate to the directory where you saved the files.
