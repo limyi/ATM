@@ -1,4 +1,4 @@
-# Simple ATM Program README Instruction
+# Simple ATM Program README Instructions
 
 ## Overview
 
